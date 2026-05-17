@@ -1,4 +1,4 @@
-# The source code will be released after the paper is accepted.
+**Note:** The source code will be released after the paper is accepted.
 # RRCLIP: Semantic-Guided Residual Representation Learning for Generalizable Deep Video Frame Interpolation Detection
 ## 📖 Abstract
 
