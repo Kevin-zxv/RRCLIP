@@ -1,5 +1,5 @@
+# The source code will be released after the paper is accepted.
 # RRCLIP: Semantic-Guided Residual Representation Learning for Generalizable Deep Video Frame Interpolation Detection
-## The source code will be released after the paper is accepted.
 ## 📖 Abstract
 
 Deep Video Frame Interpolation (DVFI) can generate temporally consistent intermediate frames and improve video smoothness. However, when maliciously used, DVFI may insert fabricated frames into videos and alter the temporal semantics of real events, posing serious threats to video authenticity verification.
