@@ -20,7 +20,7 @@ Extensive experiments demonstrate that RRCLIP achieves strong performance across
 
 ## 🏗️ Architecture Overview
 
-![RRCLIP Architecture](model.pdf)
+![RRCLIP Architecture](model.png)
 
 *Architecture of the RRCLIP framework for DVFI detection. RRCLIP integrates CLIP visual and text encoders, a frame-level feature encoder, and a DVFI detection adapter to learn semantic-guided residual representations.*
 
